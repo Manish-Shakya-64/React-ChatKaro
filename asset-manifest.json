@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-ChatKaro/static/css/main.bf7f08de.css",
+    "main.js": "/React-ChatKaro/static/js/main.ba14016d.js",
+    "index.html": "/React-ChatKaro/index.html",
+    "main.bf7f08de.css.map": "/React-ChatKaro/static/css/main.bf7f08de.css.map",
+    "main.ba14016d.js.map": "/React-ChatKaro/static/js/main.ba14016d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7f08de.css",
+    "static/js/main.ba14016d.js"
+  ]
+}
